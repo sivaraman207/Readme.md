@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaraman207&label=Profile%20views&color=0e75b6&style=flat" alt="sivaraman207" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivaraman207" alt="sivaraman207" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="(https://github-profile-trophy.vercel.app/?username=sivaraman207-ma&column=3&margin-w=15&margin-h=15)" alt="sivaraman207" /></a> </p>
 
 - 🔭 I’m currently working on **chatbot development**
 
